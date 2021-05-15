@@ -1,0 +1,9 @@
+.tabla-ciudades{
+    width: 80%;
+    margin: 0 auto;
+    height: 30px;
+    border: 2px solid rgb(212, 199, 199);
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,18 @@
+.tabla-vuelos{
+    width: 35%;
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 800px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.sombra{
+    box-shadow: 0px 5px 15px 0px rgba(122,122,122,0.58);
+    background-color: var(--blanco);
+    padding: 2rem;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+}
